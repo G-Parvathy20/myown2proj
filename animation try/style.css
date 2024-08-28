@@ -1,0 +1,19 @@
+body{
+    background-image:url('bgimagecar.jpg');
+    background-size: 100% 100%;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+#redlight{
+    background-color: red;
+}
+#one{
+    background-color: yellow;
+}
+#two{
+    background-color: green;
+}
+.marquee{
+    width: 100%;
+    overflow: hidden;
+}
